@@ -25,4 +25,4 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time 2 21]
 - [Time 2 22] 
 - [Time 2 23]
-- [Time 2 24] 
+- [Time 2 24] https://github.com/gustavo-zorzo/PI-4-GRUPO-24
