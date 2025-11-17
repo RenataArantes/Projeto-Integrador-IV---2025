@@ -19,7 +19,7 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time 2 15] 
 - [Time 2 16] 
 - [Time 2 17] 
-- [Time 2 18] 
+- [Time 2 18] https://github.com/vitormanzano/FitLink-PI4-Turma2-18
 - [Time 2 19] 
 - [Time 2 20] 
 - [Time 2 21]
