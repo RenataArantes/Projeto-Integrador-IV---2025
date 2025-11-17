@@ -13,7 +13,7 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time 2 9] 
 - [Time 2 10] 
 - [Time 2 11] 
-- [Time 2 12] 
+- [Time 2 12] https://github.com/JoaoGiatti/PI_IV_ES_TIME12
 - [Time 2 13] https://github.com/jgabrieldsl/PI_IV_ES_TIME_13-Corrige.AI
 - [Time 2 14] 
 - [Time 2 15] 
