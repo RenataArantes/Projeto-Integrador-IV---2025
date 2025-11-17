@@ -6,7 +6,7 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time 2 2] 
 - [Time 2 3] 
 - [Time 2 4] 
-- [Time 2 5] 
+- [Time 2 5] https://github.com/sophiagodoy/intelimed
 - [Time 2 6] 
 - [Time 2 7] 
 - [Time 2 8] 
