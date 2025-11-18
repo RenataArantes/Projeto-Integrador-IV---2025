@@ -8,7 +8,7 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time 2 4] 
 - [Time 2 5] https://github.com/sophiagodoy/intelimed
 - [Time 2 6] 
-- [Time 2 7] 
+- [Time 2 7] https://github.com/FilipeeeRS/PI_IV_ES_TIME-7
 - [Time 2 8] https://github.com/caiquenaimi/PI_II_ES_TIME-10
 - [Time 2 9] https://github.com/Igor-KMS/PI4 https://github.com/Igor-KMS/pi4-ai-agent
 - [Time 2 10] https://github.com/bruno-cesar02/PI_IV_ES_TIME-10-Karpos
