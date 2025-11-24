@@ -3,7 +3,7 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 
 
 - [Time 2 1] 
-- [Time 2 2] 
+- [Time 2 2] https://github.com/Campos29/PI_IV_ES_TIME-2
 - [Time 2 3] 
 - [Time 2 4] https://github.com/eduardapicolo/PI_IV_ES_TIME4
 - [Time 2 5] https://github.com/sophiagodoy/intelimed
