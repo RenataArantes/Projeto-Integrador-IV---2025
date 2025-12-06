@@ -16,7 +16,7 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time 2 12] https://github.com/JoaoGiatti/PI_IV_ES_TIME12
 - [Time 2 13] https://github.com/jgabrieldsl/PI_IV_ES_TIME_13-Corrige.AI
 - [Time 2 14] https://github.com/NathaliaAlecio22/PI_IV_ES_TIME14-
-- [Time 2 15] 
+- [Time 2 15] https://github.com/batista29/PI_IV_ES_TIME15
 - [Time 2 16] https://github.com/MariaGabiXavier/PI_IV_ES_TIME16
 - [Time 2 17] https://github.com/luccaescova/PI-4-Time-17
 - [Time 2 18] https://github.com/vitormanzano/FitLink-PI4-Turma2-18
